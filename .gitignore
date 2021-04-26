@@ -1,1 +1,8 @@
-testpic.jpeg
+node_modules/
+
+*.lock
+*.log
+*.otf
+*.jpg
+*.jpeg
+*.png
